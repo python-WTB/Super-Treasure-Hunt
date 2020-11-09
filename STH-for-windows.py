@@ -1,4 +1,4 @@
-﻿#This is an adventure/role-playing game for linux.
+﻿#This is an adventure/role-playing game for Windows.
 #Be sure to comment and leave pull requests!!!
 var = 1
 import os
