@@ -1,4 +1,6 @@
-﻿var = 1
+#This is an adventure/role-playing game for linux.
+#Be sure to comment and leave pull requests!!!
+var = 1
 import os
 import sys
 clear = lambda:os.system('clear')
